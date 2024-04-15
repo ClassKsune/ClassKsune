@@ -1,5 +1,5 @@
 <div align="center">
   <img src="imgs/classKsune.png">
   <br><br><br>
-  //<img src="img/separator.png">
+  <img src="imgs/separator.png">
 </div>
