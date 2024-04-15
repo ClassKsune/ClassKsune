@@ -10,7 +10,7 @@
 
 - 🌱 I'm currently working on personal projects and studing at [creative hill colege](https://www.creativehill.cz/)
 -  I enjoy working on:
-    - <img height="12" width="12" src="[https://cdn.simpleicons.org/redhat](https://cdn.simpleicons.org/archlinux)" /> My linux
+    - <img height="12" width="12" src="[https://cdn.simpleicons.org/archlinux](https://cdn.simpleicons.org/archlinux)" /> My linux
     - 📱 Web Development enjoyer
     - 🎮 Indie Game Developer
     - 🛠 DIY Electronics Projects
