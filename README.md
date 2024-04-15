@@ -8,7 +8,7 @@
 
 <img height="310" src="gifs/berserk.gif" align=right>
 
-- 🌱 I'm currently working on personal projects and studing at ![creative hill colege](https://www.creativehill.cz/)
+- 🌱 I'm currently working on personal projects and studing at [a link](https://www.creativehill.cz/)
 -  I enjoy working on:
     - <img height="12" width="12" src="https://cdn.simpleicons.org/redhat" /> Red team
     - 📱 Full Stack Mobile App/Web Development
