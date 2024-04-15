@@ -6,5 +6,5 @@
 
 ## 📪 Find me at:
 <div align="center">
-[![instagram](https://img.shields.io/badge/instagram?logo=instagram&logoColor=black&color=red)](https://instagram.com/orbitdotexe)
+[![monkeytype](https://img.shields.io/badge/Monkeytype-e78a4e?style=for-the-badge&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/AllJavi)
 </div>
