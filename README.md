@@ -19,5 +19,5 @@
 - 🧠 I enjoy self-education and learning new things on my own
 - 🖌 I have experience in graphic design
 - 🎓 Im studing Game Development and multimedia application
-- 🔒 Im home server security enthusiast
+- 🔒 Im home lab enthusiast
 - 
