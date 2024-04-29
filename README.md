@@ -20,4 +20,3 @@
 - 🖌 I have experience in graphic design
 - 🎓 Im studing Game Development and multimedia application
 - 🔒 Im home lab enthusiast
-- 
