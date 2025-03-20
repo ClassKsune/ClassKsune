@@ -8,7 +8,7 @@
 
 <img height="310" src="gifs/berserk.gif" align=right>
 
-- 🌱 I'm currently working on personal projects and studing at [creative hill colege](https://www.creativehill.cz/)
+- 🌱 I'm currently working on personal projects and studing at [CREATIVE HILL COLLEGE](https://www.creativehill.cz/)
 -  I enjoy working on:
     - 💻 My own flavor of arch
     - 📱 Web Development enjoyer
